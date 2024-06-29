@@ -1,3 +1,5 @@
 // Copyright 2021 Manna Harbour
 // https://github.com/manna-harbour/miryoku
 
+#include "../miryoku/mapping/42/corne.h"
+#include "../miryoku/miryoku.dtsi"
